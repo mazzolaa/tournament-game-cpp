@@ -1,7 +1,6 @@
 /*******
 * Author: Anthony Mazzola
 * Email: mazzolaa@oregonstate.edu
-* Date: 11/06/2019
 * Description: Source file for DoubleLink class functions.
 ***/
 
