@@ -1,7 +1,6 @@
 /*******
 * Author: Anthony Mazzola
 * Email: mazzolaa@oregonstate.edu
-* Date: 11/07/2019
 * Description: Header file for Vampire class.
 *  Subclass to character.
 ***/
