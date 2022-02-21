@@ -137,6 +137,8 @@ void Game::battle()
 			cout << "Player 1 has " << player1->getStrength() << " strength points and " << player1->getArmor() << " armor.\n";
 			player1->defend(player2->attack());
 			cout << endl;
+			system("pause");
+
 		}
 		system("pause");
 
